@@ -1,10 +1,10 @@
  Foundry Fund Me
 
-Hi it's Ajay here. Foundry fundme is a section of the Cyfrin Solidity Course - Thanks to Patrick for providing this material for free.
+Hi it's Ajay here. Foundry Fund Me is a section of the Cyfrin Solidity Course - Thanks to Patrick for providing this Solidity training course for free.
 
-I have completed this section by following the course videos and it's my first upload to GitHub. In addition I have used Grok 3 to help to explain some of the code to help me understand it.
+I have completed this section by following the course videos and coding along with them. It's my first upload to GitHub. In addition I have used Grok and ChatGPT to help me understand the code.
 
-This part of the course covers foundry and some basic solidity.
+This part of the course covers Foundry and some basic solidity.
 
 
 *[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
